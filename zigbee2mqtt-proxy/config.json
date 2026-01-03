@@ -10,7 +10,6 @@
     ],
     "boot": "auto",
     "init": true,
-    "true": true,
     "ingress": true,
     "timeout": 30,
     "panel_icon": "mdi:zigbee",
