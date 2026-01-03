@@ -3,7 +3,7 @@
   "version": "2.7.1",
   "slug": "zigbee2mqtt-271",
   "description": "Custom build of Zigbee2MQTT with version 2.7.1",
-  "image": "koenkk/zigbee2mqtt:2.7.1",
+  "build": { "dockerfile": "Dockerfile" },
   "arch": ["armhf", "armv7", "aarch64", "amd64"],
   "startup": "application",
   "boot": "auto",
