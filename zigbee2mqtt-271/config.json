@@ -1,0 +1,15 @@
+{
+  "name": "Zigbee2MQTT 2.7.1",
+  "version": "2.7.1",
+  "slug": "zigbee2mqtt-271",
+  "description": "Custom build of Zigbee2MQTT with version 2.7.1",
+  "image": "koenkk/zigbee2mqtt:2.7.1",
+  "arch": ["aarch64", "amd64"],
+  "startup": "application",
+  "boot": "auto",
+  "ingress": true,
+  "panel_icon": "mdi:zigbee",
+  "options": {},
+  "schema": {},
+  "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-271"
+}
