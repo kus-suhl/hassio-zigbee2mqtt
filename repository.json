@@ -7,9 +7,22 @@
       "name": "Zigbee2MQTT 2.7.1",
       "description": "Custom build of Zigbee2MQTT with version 2.7.1",
       "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-271"
+    },
+    {
+      "slug": "zigbee2mqtt-edge",
+      "name": "Zigbee2MQTT Edge",
+      "description": "Development build of Zigbee2MQTT",
+      "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-edge"
+    },
+    {
+      "slug": "zigbee2mqtt-proxy",
+      "name": "Zigbee2MQTT Proxy",
+      "description": "Proxy for externally running Zigbee2MQTT",
+      "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-proxy"
     }
   ]
 }
+
 
 
 
