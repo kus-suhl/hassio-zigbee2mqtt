@@ -1,2 +1,2 @@
-FROM koenkk/zigbee2mqtt:2.7.1
+FROM koenkk/zigbee2mqtt:latest
 
