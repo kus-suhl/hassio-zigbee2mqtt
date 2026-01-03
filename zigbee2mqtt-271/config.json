@@ -8,7 +8,7 @@
   "startup": "application",
   "boot": "auto",
   "ingress": true,
-  "panel_icon": "mdi:zigbee",
+  "panel_icon": "mdi:zigbeebug",
   "options": {
     "data_path": "/config/zigbee2mqtt"
   },
