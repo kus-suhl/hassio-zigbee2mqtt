@@ -9,7 +9,12 @@
   "boot": "auto",
   "ingress": true,
   "panel_icon": "mdi:zigbee",
-  "options": {},
-  "schema": {},
+"options": {
+  "data_path": "/config/zigbee2mqtt"
+},
+"schema": {
+  "data_path": "str"
+}
+
   "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt-271"
 }
