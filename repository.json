@@ -1,5 +1,5 @@
 {
-  "name": Zigbee2MQTT Custom Repo v2",
+  "name": "Zigbee2MQTT Custom Repo v2",
   "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt",
   "addons": [
     {
