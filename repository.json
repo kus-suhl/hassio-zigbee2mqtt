@@ -1,5 +1,14 @@
 {
   "name": "Zigbee2MQTT 2.7.1",
-  "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt"
+  "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt",
+  "addons": [
+    {
+      "slug": "zigbee2mqtt",
+      "name": "Zigbee2MQTT 2.7.1",
+      "description": "Custom build of Zigbee2MQTT with version 2.7.1",
+      "url": "https://github.com/kus-suhl/hassio-zigbee2mqtt/tree/master/zigbee2mqtt"
+    }
+  ]
 }
+
 
